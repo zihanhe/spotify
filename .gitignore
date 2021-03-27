@@ -24,4 +24,11 @@ DerivedData/
 
 ## Gcc Patch
 /*.gcno
+
+## macOS
 .DS_Store
+
+## CocoaPods
+Podfile.lock
+/Pods
+*.xcworkspace
